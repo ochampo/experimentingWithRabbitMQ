@@ -1,0 +1,17 @@
+C:\Users\docampo\source\repos\FanOutPublisher\bin\Debug\net6.0\FanOutPublisher.exe
+C:\Users\docampo\source\repos\FanOutPublisher\bin\Debug\net6.0\FanOutPublisher.deps.json
+C:\Users\docampo\source\repos\FanOutPublisher\bin\Debug\net6.0\FanOutPublisher.runtimeconfig.json
+C:\Users\docampo\source\repos\FanOutPublisher\bin\Debug\net6.0\FanOutPublisher.dll
+C:\Users\docampo\source\repos\FanOutPublisher\bin\Debug\net6.0\ref\FanOutPublisher.dll
+C:\Users\docampo\source\repos\FanOutPublisher\bin\Debug\net6.0\FanOutPublisher.pdb
+C:\Users\docampo\source\repos\FanOutPublisher\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.csproj.AssemblyReference.cache
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.AssemblyInfoInputs.cache
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.AssemblyInfo.cs
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.csproj.CoreCompileInputs.cache
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.csproj.CopyComplete
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.dll
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\ref\FanOutPublisher.dll
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.pdb
+C:\Users\docampo\source\repos\FanOutPublisher\obj\Debug\net6.0\FanOutPublisher.genruntimeconfig.cache
