@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DoUkbJFBKb0QIWebcq8m9pEafYEMGzhVpSY2L0LWrX9ke3qnk2RkNrLfPAZfUDYywWHXewmSlArSGVQAKouaMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\docampo\\source\\repos\\LearningRabbitMQ\\DirectDemo\\DirectDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\docampo\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\docampo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\docampo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

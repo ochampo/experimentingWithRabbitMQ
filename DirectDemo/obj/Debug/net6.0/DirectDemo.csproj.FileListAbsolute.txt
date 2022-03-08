@@ -1,0 +1,17 @@
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\bin\Debug\net6.0\DirectDemo.exe
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\bin\Debug\net6.0\DirectDemo.deps.json
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\bin\Debug\net6.0\DirectDemo.runtimeconfig.json
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\bin\Debug\net6.0\DirectDemo.dll
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\bin\Debug\net6.0\ref\DirectDemo.dll
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\bin\Debug\net6.0\DirectDemo.pdb
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.csproj.AssemblyReference.cache
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.AssemblyInfoInputs.cache
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.AssemblyInfo.cs
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.csproj.CoreCompileInputs.cache
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.csproj.CopyComplete
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.dll
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\ref\DirectDemo.dll
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.pdb
+C:\Users\docampo\source\repos\LearningRabbitMQ\DirectDemo\obj\Debug\net6.0\DirectDemo.genruntimeconfig.cache

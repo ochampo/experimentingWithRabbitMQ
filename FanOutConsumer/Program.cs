@@ -31,4 +31,6 @@ Console.ReadKey();
     var body = e.Body.Span;
     var message = Encoding.UTF8.GetString(body);
     Console.WriteLine("[x] Received {0}", message);
+
+   //channel.BasicAck(e.DeliveryTag, false);
 }
